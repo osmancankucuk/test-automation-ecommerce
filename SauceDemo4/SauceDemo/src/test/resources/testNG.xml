@@ -1,0 +1,8 @@
+<suite name="Cucumber Project">
+    <parameter name="browser" value="Chrome"/>
+    <test name="cucumber">
+        <classes>
+            <class name="TestRunners.Runner"/>
+        </classes>
+    </test>
+</suite>
